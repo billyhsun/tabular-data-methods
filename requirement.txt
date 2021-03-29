@@ -2,3 +2,5 @@ torch
 sklearn
 scipy
 numpy
+jupyter
+xgboost
